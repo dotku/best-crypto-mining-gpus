@@ -24,3 +24,4 @@ Reference:
 - https://www.techradar.com/best/mining-gpu
 - https://www.windowscentral.com/best-gpus-crypto-mining
 - https://finaldesktop.com/graphics-cards/best-low-power-graphics-card-without-external-power
+- https://miningcharts.com/best-mining-gpu/
