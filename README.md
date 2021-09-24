@@ -16,5 +16,7 @@ HiveOS Suggested GPU Cards for 2021
 | GTX 1660 Ti | 25 MH/s | 77 W | 0.32 MH/s | $279 | 
 | GTX 1660 Super | 26 MH/s | 70 W | 0.37 MH/s | $229 |
 
-Reference: https://medium.com/hiveon/top-gpus-for-mining-in-2021-9d7138952c84
+Reference: 
+- https://medium.com/hiveon/top-gpus-for-mining-in-2021-9d7138952c84
+- https://cryptominertips.com/mining-hardware/best-gpu-for-mining/
 
