@@ -19,4 +19,8 @@ HiveOS Suggested GPU Cards for 2021
 Reference: 
 - https://medium.com/hiveon/top-gpus-for-mining-in-2021-9d7138952c84
 - https://cryptominertips.com/mining-hardware/best-gpu-for-mining/
-
+- https://www.bitdegree.org/crypto/tutorials/best-gpu-for-mining
+- https://www.techspot.com/news/89151-best-mining-gpus-2021-optimist-guide.html
+- https://www.techradar.com/best/mining-gpu
+- https://www.windowscentral.com/best-gpus-crypto-mining
+- https://finaldesktop.com/graphics-cards/best-low-power-graphics-card-without-external-power
