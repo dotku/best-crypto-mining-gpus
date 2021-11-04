@@ -1,10 +1,10 @@
 # Best GPU
 
 ## GTD
-Create a script to run get the data from the web
-
-* https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
-* eBay history API
+- Create a script to run get the data from the web
+  - https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
+  - eBay history API
+- Inspect sale site: https://powerstripe.com/
 
 ## Reference
 Looking for 6600, 1660, 5600, 3060 in good price.  
